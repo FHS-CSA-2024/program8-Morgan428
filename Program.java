@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Class name should match file name (Pretend that the file is named Program8.java)
 public class program8{
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
